@@ -30,6 +30,7 @@ export const ROOM_TYPES = [
       "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=85",
       "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=85",
       "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=85",
     ],
   },
   {
@@ -85,7 +86,7 @@ export const BANQUET_TYPES = [
     occasions: ["Engagement", "Birthday", "Anniversary", "Family function"],
     images: [
       "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=85",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85",
       "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85",
     ],
     description:
@@ -107,7 +108,7 @@ export const BANQUET_TYPES = [
     images: [
       "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85",
       "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=85",
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1520857014576-2c4f4c972b57?auto=format&fit=crop&w=1200&q=85",
     ],
     description:
       "Explore a flexible setup for larger gatherings. Ask the hotel to confirm hall size, seating plan, event packages and availability.",
@@ -126,7 +127,7 @@ export const BANQUET_TYPES = [
       "Corporate gathering",
     ],
     images: [
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1478146896981-b80fe463b330?auto=format&fit=crop&w=1200&q=85",
       "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85",
       "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=85",
     ],
@@ -170,7 +171,25 @@ export const GALLERY = [
     title: "Moments worth keeping",
     category: "Celebrations",
     image:
-      "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    title: "Moments worth keeping",
+    category: "Celebrations",
+    image:
+      "https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    title: "Moments worth keeping",
+    category: "Celebrations",
+    image:
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    title: "Moments worth keeping",
+    category: "Celebrations",
+    image:
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=85",
   },
 ];
 
@@ -274,7 +293,7 @@ export const RESTAURANT_MENU = [
     price: 80,
     description: "A chilled yogurt drink.",
     image:
-      "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=85",
   },
   {
     id: "fresh-lime-soda",
@@ -284,7 +303,7 @@ export const RESTAURANT_MENU = [
     price: 70,
     description: "A refreshing lime drink.",
     image:
-      "https://images.unsplash.com/photo-1513558161293-cceu6d3f0c90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1200&q=85",
   },
   {
     id: "gulab-jamun",
@@ -294,6 +313,6 @@ export const RESTAURANT_MENU = [
     price: 90,
     description: "A classic Indian sweet served as dessert.",
     image:
-      "https://images.unsplash.com/photo-1666190092159-2f7c5a0d4f4c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=85",
   },
 ];
