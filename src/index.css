@@ -176,15 +176,16 @@ img {
   color: #fff;
 }
 .brand-mark {
-  width: 39px;
-  height: 39px;
-  border: 1px solid var(--gold);
+  width: 45px;
+  height: 45px;
+ 
   color: var(--gold);
   display: grid;
   place-items: center;
   font-family: var(--serif);
   font-size: 17px;
   font-style: italic;
+  
 }
 .brand-name {
   display: flex;

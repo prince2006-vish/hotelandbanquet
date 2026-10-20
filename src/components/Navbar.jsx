@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="nav-wrap">
       <nav className="nav shell">
         <a className="brand" href="#home" aria-label={HOTEL.fullName + " home"}>
-          <span className="brand-mark">MP</span>
+          <img className="brand-mark" src="src/public/logo.png" alt={HOTEL.fullName} />
           <span className="brand-name">
             <strong>MEETHA PANI</strong>
             <small>HOTEL & BANQUET</small>
