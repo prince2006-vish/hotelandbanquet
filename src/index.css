@@ -334,7 +334,7 @@ img {
 .hero-bottom svg {
   color: var(--gold);
 }
-.scene3d {
+/* .scene3d {
   position: absolute;
   z-index: 1;
   right: 3%;
@@ -343,7 +343,7 @@ img {
   height: min(56vw, 530px);
   pointer-events: none;
   opacity: 0.83;
-}
+} */
 .hero-orbit {
   position: absolute;
   border: 1px solid rgba(215, 185, 119, 0.17);
@@ -1015,11 +1015,11 @@ img {
   .nav-links > a:not(.nav-cta) {
     font-size: 10px;
   }
-  .scene3d {
+  /* .scene3d {
     right: -4%;
     width: 43vw;
     opacity: 0.7;
-  }
+  } */
   .about-grid {
     gap: 48px;
   }
@@ -1125,13 +1125,13 @@ img {
     font-size: 8px;
     letter-spacing: 0.08em;
   }
-  .scene3d {
+  /* .scene3d {
     width: 220px;
     height: 260px;
     top: 4%;
     right: -40px;
     opacity: 0.42;
-  }
+  } */
   .hero-orbit {
     display: none;
   }
